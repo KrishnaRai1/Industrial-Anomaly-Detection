@@ -1,7 +1,7 @@
 # Industrial Anomaly Detection: Comparative Analysis of Advanced Methods
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1-KM-aORwoAhRB-wr2rZM3pO6WgNo1jew)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ACXyCbxQLi6zG4zzGSV0fTmidiKnqhoZ)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1C9VBAlsOP1mlrgGMsq1b3FHB1D7qDsDv?usp=sharing)
 
 This repository contains implementations and analyses of state-of-the-art industrial anomaly detection methods, with a focus on **PatchCore** and **DRAEM**, evaluated on benchmark datasets including MVTec AD and Severstal Steel Defect Detection.
 
@@ -99,7 +99,7 @@ Autoencoder | 45min | 0.03s/img | 1.1GB
   author = {Krishna},
   title = {Industrial Anomaly Detection Analysis},
   year = {2025},
-  howpublished = {\url{https://github.com/KrishnaRai1/Industrial-Anomaly-Detection}}
+  howpublished = [Industrial Anomaly Detection Analysis](https://github.com/KrishnaRai1/Industrial-Anomaly-Detection)
 }
 
 ## License
