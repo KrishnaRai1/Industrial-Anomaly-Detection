@@ -96,13 +96,9 @@ Autoencoder | 45min | 0.03s/img | 1.1GB
 
 ## Citation
 @misc{krishna2025industrial,
-
   author = {Krishna},
-  
   title = {Industrial Anomaly Detection Analysis},
-  
   year = {2025},
-  
   howpublished = {\url{https://github.com/KrishnaRai1/Industrial-Anomaly-Detection}}
 }
 
