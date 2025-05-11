@@ -1,5 +1,10 @@
 # Industrial Anomaly Detection: Comparative Analysis of Advanced Methods
 
+This project was conducted under the supervision of Dr Ye Zhu, PhD, SMIEEE,
+HDR Coordinator for Data to Intelligence (D2i) Research Centre,
+Senior Lecturer of Computer Science, School of Information Technology,
+Deakin University.
+
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1-KM-aORwoAhRB-wr2rZM3pO6WgNo1jew)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1C9VBAlsOP1mlrgGMsq1b3FHB1D7qDsDv?usp=sharing)
 
