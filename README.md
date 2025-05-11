@@ -6,7 +6,7 @@
 This repository contains implementations and analyses of state-of-the-art industrial anomaly detection methods, with a focus on **PatchCore** and **DRAEM**, evaluated on benchmark datasets including MVTec AD and Severstal Steel Defect Detection.
 
 ## Research Report
-The complete research paper is available in [docs/Industrial_Anomaly_Detection_Analysis.pdf](docs/Industrial_Anomaly_Detection_Analysis.pdf)
+The complete research paper is available in [Research Paper/Industrial_Anomaly_Detection.pdf](Research Paper/Industrial_Anomaly_Detection.pdf)
 
 ##  Key Implementations
 1. **PatchCore** (Section 2 of report)
