@@ -8,7 +8,7 @@ Deakin University.
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1-KM-aORwoAhRB-wr2rZM3pO6WgNo1jew)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1C9VBAlsOP1mlrgGMsq1b3FHB1D7qDsDv?usp=sharing)
 
-
+This repository contains implementations and analyses of state-of-the-art industrial anomaly detection methods, with a focus on **PatchCore** and **DRAEM**, evaluated on benchmark datasets including MVTec AD and Severstal Steel Defect Detection.
 
 ## Research Report
 The complete research paper is available in [Research Paper/Industrial_Anomaly_Detection.pdf](Research%20Paper/Industrial_Anomaly_Detection.pdf)
